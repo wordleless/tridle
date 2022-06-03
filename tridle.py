@@ -1,6 +1,6 @@
 import random
 
-file = open('wordle.txt', 'r', encoding='utf-8') 
+file = open('tridle.txt', 'r', encoding='utf-8') 
 words = []
 for i in file.readlines():
     words.append(i.rstrip())
