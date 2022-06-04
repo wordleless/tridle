@@ -8,6 +8,7 @@ hr {
 }
 
 #title {
+    height: 40px;
     font-size: 36px;
     font-weight: bold;
     letter-spacing: 2px;
@@ -15,11 +16,11 @@ hr {
 
 #rules {
     font-weight: thin;
-    margin-top: 10px;
 }
 
 #boards {
     width: max-content;
+    height: 460px;
     margin: auto;
 }
 
@@ -86,3 +87,4 @@ hr {
     color: white;
     border-color:white;
 }
+
